@@ -83,3 +83,4 @@ int main()
     return 0;
 }
 
+// user input reh rha h ok
