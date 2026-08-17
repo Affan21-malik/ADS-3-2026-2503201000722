@@ -13,4 +13,6 @@ int main() {
     cout << gcd(12, 18) << endl;
 
     return 0;
+
+    
 }
