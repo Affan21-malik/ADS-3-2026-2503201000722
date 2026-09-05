@@ -16,3 +16,25 @@ int main() {
 
     
 }
+/*
+#include <iostream>
+using namespace std;
+
+int gcd(int a, int b) {
+    if(a == b) {
+        return a;
+    }
+
+    if(a > b) {
+        return gcd(a - b, b);
+    }
+
+    return gcd(a, b - a);
+}
+
+int main() {
+    cout << gcd(12, 18) << endl;
+
+    return 0;
+}
+*/
